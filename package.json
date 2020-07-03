@@ -1,0 +1,11 @@
+{
+  "name": "codewars-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/flynnpark/codewars-ts.git",
+  "author": "Flynn Park <flynn@soomgo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
+}
