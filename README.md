@@ -5,3 +5,4 @@
 1. [(7kyu) Two Oldest Ages](./solutions/001)
 2. [(7kyu) Mumbling](./solutions/002)
 3. [(6kyu) Consecutive strings](./solutions/003)
+4. [(7kyu) Count the divisors of a number](./solutions/004)
