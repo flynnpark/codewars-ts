@@ -1,6 +1,6 @@
 import { accum } from '../solutions/002';
 
-test('002. Mumbling', () => {
+test('2. Mumbling', () => {
   expect(accum('ZpglnRxqenU')).toEqual(
     'Z-Pp-Ggg-Llll-Nnnnn-Rrrrrr-Xxxxxxx-Qqqqqqqq-Eeeeeeeee-Nnnnnnnnnn-Uuuuuuuuuuu'
   );

@@ -1,6 +1,6 @@
 import { longestConsec } from '../solutions/003';
 
-test('001. Two Oldest Ages', () => {
+test('1. Two Oldest Ages', () => {
   expect(
     longestConsec(['zone', 'abigail', 'theta', 'form', 'libe', 'zas'], 2)
   ).toEqual('abigailtheta');

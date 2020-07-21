@@ -1,6 +1,6 @@
 import { encryptThis } from '../solutions/005';
 
-test('005. Encrypt this!', () => {
+test('5. Encrypt this!', () => {
   expect(encryptThis('')).toEqual('');
   expect(encryptThis('A')).toEqual('65');
   expect(encryptThis('A wise old owl lived in an oak')).toEqual(

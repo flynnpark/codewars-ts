@@ -1,6 +1,6 @@
 import { divisors } from '../solutions/004';
 
-test('004. Count the divisors of a number', () => {
+test('4. Count the divisors of a number', () => {
   expect(divisors(1)).toEqual(1);
   expect(divisors(10)).toEqual(4);
   expect(divisors(11)).toEqual(2);
