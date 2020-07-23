@@ -7,3 +7,4 @@
 3. [(6kyu) Consecutive strings](./solutions/003)
 4. [(7kyu) Count the divisors of a number](./solutions/004)
 5. [(6kyu) Encrypt this!](./solutions/005)
+6. [(5kyu) Perimeter of squares in a rectangle](./solutions/006)
