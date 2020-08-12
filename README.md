@@ -8,3 +8,4 @@
 4. [(7kyu) Count the divisors of a number](./solutions/004)
 5. [(6kyu) Encrypt this!](./solutions/005)
 6. [(5kyu) Perimeter of squares in a rectangle](./solutions/006)
+7. [(6kyu) Multiples of 3 or 5](./solutions/007)
