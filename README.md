@@ -9,3 +9,4 @@
 5. [(6kyu) Encrypt this!](./solutions/005)
 6. [(5kyu) Perimeter of squares in a rectangle](./solutions/006)
 7. [(6kyu) Multiples of 3 or 5](./solutions/007)
+8. [(5kyu) Human Readable Time](./solutions/008)
